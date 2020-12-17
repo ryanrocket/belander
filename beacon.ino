@@ -16,7 +16,7 @@ void setup() {
 }
 
 int getDelayer() {
-    return (random(10,111) * 10 * 2);
+    return (random(10,90) * 10 * 2);
 }
 
 void loop() {
