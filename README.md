@@ -1,5 +1,5 @@
 # BeLander
-Land drones with precision using homing technology<br>
+Land drones with precision using homing technology <br>
 For Project Aeolus 2021
 
 ## Premise / Concept
